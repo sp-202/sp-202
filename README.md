@@ -9,10 +9,10 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **Power Comsumption App**
-- 🌱 I’m currently learning **Deskptop & Terminal App-DEV**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **C++, Java, Python, Javascripts, CI/CD, ML, Web Dev, Electronics**
+- 🔭 I’m currently working on **Intraday stock trend prediction system using 10 years of per-minute HDFCBANK data (NSE, 2015–2024)**
+- 🌱 I’m currently learning **Optimization of server concept**
+- 👯 I’m looking to collaborate on **SDE 1 jobs**
+- 💬 Ask me about **C/C++, Java, Python, Javascripts, CI/CD, ML, Web-Dev, SQL**
 - 📫 How to reach me: **subhodeeppal64@gmail.com**
 - ⚡ Fun fact: *I automate everything I can!*
 
