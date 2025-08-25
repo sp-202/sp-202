@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently working on **Intraday stock trend prediction system using 10 years of per-minute HDFCBANK data (NSE, 2015–2024)**
 - 🌱 I’m currently learning **Optimization of server concept**
-- 👯 I’m looking to collaborate on **SDE 1 jobs**
-- 💬 Ask me about **C/C++, Java, Python, Javascripts, CI/CD, ML, Web-Dev, SQL**
+- 👯 I’m looking to collaborate on **Data Engineer & Data Scientist rolse**
+- 💬 Ask me about **C/C++, Java, Python, Javascripts, CI/CD, ML, Web-Dev, SQL, Databricks, Tableau, LLM, RAG**
 - 📫 How to reach me: **subhodeeppal64@gmail.com**
 - ⚡ Fun fact: *I automate everything I can!*
 
